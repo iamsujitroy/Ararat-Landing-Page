@@ -1,2 +1,2 @@
 # Responsive_websites
-preview link: https://iamsujitroy.github.io/1.landing-page/
+preview link: [click me](https://iamsujitroy.github.io/Ararat-Landing-Page/)
